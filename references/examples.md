@@ -43,6 +43,14 @@ benefit.*
 **Not Angel:** "Thank you for your generous support of our mission!"
 *A specific receipt vs. a form letter.*
 
+## Brand & mission statements
+
+**Angel:** "Stories that inspire hope and strengthen families."
+**Not Angel:** "Stories that shimmer like constellations across the human
+spirit."
+*Clear and direct vs. flowery metaphor. Clarity is more important than
+cleverness — poetic decoration hides the subject.*
+
 ## Errors
 
 **Angel:**

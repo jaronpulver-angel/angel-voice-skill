@@ -8,13 +8,15 @@ description: How Angel Studios sounds in words. Use this skill for ANY writing o
 How Angel Studios sounds in words. This skill covers the words only — for
 components, tokens, layout, and visuals, use `angel-photon-design`.
 
-Angel is not Hollywood. It's a guild of storytellers and members building
-stories that amplify light. Copy earns trust by being honest about what
-members get and direct about what we ask. That framing explains every rule
-below: hype erodes trust, specifics build it, and the mission shows up in
-how we treat people — not in how often we mention it.
+Angel is not Hollywood. It's a home for stories that amplify light — a
+guild of storytellers and members building community-powered entertainment.
+We write for families, supporters, creators, and members who value
+meaningful stories. Copy earns trust by being honest about what members get
+and direct about what we ask. That framing explains every rule below: hype
+erodes trust, specifics build it, and the mission shows up in how we treat
+people — not in how often we mention it.
 
-## The Three Principles
+## The Four Principles
 
 **1. Warm, not breathless.**
 Write like a friend who's genuinely excited about this show — not a trailer
@@ -27,7 +29,14 @@ creators of David" beats "a powerful new drama." When you have a real
 number, use it plainly: `$20/mo`, `12M+ gifts`, `Sun 8pm`. Receipts earn
 trust; adjectives spend it.
 
-**3. Mission on the ground.**
+**3. Clear, not clever.**
+Clarity is more important than cleverness. No flowery language, no abstract
+metaphors, no poetry for its own sake. "Stories that inspire hope and
+strengthen families" beats "stories that shimmer like constellations across
+the human spirit." Warmth comes from directness, not decoration — if a line
+sounds like it's performing, simplify it.
+
+**4. Mission on the ground.**
 The mission is an undertone everywhere and a headline almost nowhere. We pay
 it forward, we build with Guild, we fund with tickets — state the mechanic
 plainly when it's relevant to the surface, then step aside. Never preachy,
@@ -40,12 +49,22 @@ member like a partner, not a transaction.
   genuinely the actor ("We'll email you when it's fixed").
 - **Contractions always.** "You're", "we'll", "don't." Uncontracted copy
   reads stiff and corporate.
+- **Active voice, short-to-medium sentences.** Lead with the audience
+  benefit. "You fund the next season" — not "the next season is funded by
+  members like you."
+- **Write for skimmability.** Short paragraphs (1–3 sentences), bullets over
+  dense blocks, bold sparingly for key ideas. Headlines under 10 words when
+  possible.
 - **Em dashes sparingly** — at most one per block. Prefer periods and commas.
 - **Exclamation points: effectively never.** Not in CTAs, not in errors. If
   a sentence needs one to feel exciting, it isn't specific enough yet.
 - **Terminology:** *member* or *Guild member* — never "subscriber" or
   "user." *Shows*, *stories*, or *titles* — never "content." *Pay It
   Forward* as the named feature; lowercase "pay it forward" as a verb phrase.
+- **Product names are canonical:** *Angel Originals* (original films and
+  series), *Angel Guild* (the membership community — *Guild* on second
+  reference), *Angel Tickets* (theatrical), *Angel Invest* (supporter
+  funding). Don't invent variants or descriptions that drift from these.
 - **Legal — never mention "The Chosen."** Angel copy may not reference
   *The Chosen* in any form, on any surface — not as named proof ("from the
   producers of…"), not in title lists, not in examples. This is a legal
@@ -104,8 +123,12 @@ For detailed patterns and templates:
 - **Jargon and euphemism.** "Unlock", "seamless", "premium viewing
   experience", "leverage." If it's a euphemism for paying us, say the price
   instead.
-- **Fake urgency and guilt.** "Don't miss out!", countdown pressure,
-  shame-based unsubscribe copy. Invitation, not demand.
+- **Fear, guilt, and fake urgency.** "Don't miss out!", countdown pressure,
+  shame-based unsubscribe copy, negativity or fear-based framing of any
+  kind. Angel sells hope with receipts — invitation, not demand.
+- **Flowery language and abstract metaphors.** "Shimmer like
+  constellations," "a tapestry of faith," poetic decoration in general.
+  Overly creative wording hides the subject; clarity beats cleverness.
 - **Exclamation overload.** Multiple "!", ALL-CAPS enthusiasm, emoji
   stacking in product copy.
 - **Abstraction hiding the subject.** "An epic saga of faith, destiny, and
@@ -135,6 +158,7 @@ More in [references/examples.md](references/examples.md).
 3. Does the CTA verb match what happens on tap?
 4. Did I remove every hype adjective?
 5. Is the mission mentioned only if it's relevant to this surface?
+   And is it clear before it's clever — no flowery metaphors?
 6. Am I naming the subject, or hiding behind abstractions?
 7. Title casing: right case for the word count, no period?
 8. Member, never subscriber. Shows, never content.

@@ -24,7 +24,22 @@ what it costs, and what their participation does.
   the next film", "Pay it forward — it's how the next family gets in."
   Then step aside.
 - **Invitation, not demand.** Real deadlines are facts and fine to state
-  (`Guild vote closes Sunday`). Manufactured urgency is banned.
+  (`Guild vote closes Sunday`). Manufactured urgency, fear-based framing,
+  and negativity are banned — Angel sells hope with receipts.
+- **Structure for skimming.** Lead with the audience benefit. Short
+  paragraphs (1–3 sentences), bullets for lists, bold sparingly for key
+  ideas, headlines under 10 words when possible. No long, dense blocks.
+
+### The offerings, named correctly
+
+When copy references an Angel product, use the canonical name and framing:
+
+| Name | What it is, in copy terms |
+|---|---|
+| Angel Originals | Original films and series created to uplift and inspire |
+| Angel Guild | The membership community — early access, exclusive titles, and a voice in what gets made. *Guild* on second reference |
+| Angel Tickets | Theatrical — experiencing inspiring stories together |
+| Angel Invest | Supporters investing in and helping fund meaningful entertainment |
 
 ## Emails
 
