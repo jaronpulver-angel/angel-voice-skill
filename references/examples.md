@@ -1,4 +1,4 @@
-# Example Bank — Angel / Not Angel
+# Example Bank: Angel / Not Angel
 
 Calibration pairs across surfaces. Each pair says the same thing twice: how
 Angel sounds, and the trap to avoid. Use these to tune your ear before
@@ -17,7 +17,7 @@ receipts, no subject.*
 
 **Angel:** "From the creators of David."
 **Not Angel:** "From the studio that brought you The Chosen."
-*Named proof must come from Angel's own titles — "The Chosen" is legally
+*Named proof must come from Angel's own titles. "The Chosen" is legally
 off-limits in all Angel copy, with no exceptions.*
 
 ## Guild & membership
@@ -28,18 +28,18 @@ off-limits in all Angel copy, with no exceptions.*
 paying us.*
 
 **Angel:** "Guild vote closes Sunday: pick the next pilot."
-**Not Angel:** "Last chance to make your voice heard — act now!"
+**Not Angel:** "Last chance to make your voice heard. Act now!"
 *A real deadline and a real action vs. manufactured urgency.*
 
 ## Pay It Forward
 
-**Angel:** "Watch free. Pay it forward when you're able — it's how the next
+**Angel:** "Watch free. Pay it forward when you're able. It's how the next
 family gets in."
 **Not Angel:** "Support impactful content with a generous contribution today."
 *Names the mechanic and why it matters vs. vague ask, vague subject, vague
 benefit.*
 
-**Angel:** "Your gift landed — someone's watching free tonight."
+**Angel:** "Your gift landed. Someone's watching free tonight."
 **Not Angel:** "Thank you for your generous support of our mission!"
 *A specific receipt vs. a form letter.*
 
@@ -49,14 +49,22 @@ benefit.*
 **Not Angel:** "Stories that shimmer like constellations across the human
 spirit."
 *Clear and direct vs. flowery metaphor. Clarity is more important than
-cleverness — poetic decoration hides the subject.*
+cleverness; poetic decoration hides the subject.*
+
+## Punctuation
+
+**Angel:** "Payment updated. You're all set through March."
+**Not Angel:** "Payment updated — you're all set through March."
+*Same words, wrong joint. Em dashes are banned in Angel copy, even where
+one would normally be stylistically fine. Use a period, comma, or
+parentheses, or restructure.*
 
 ## Errors
 
 **Angel:**
 > **Your Guild Membership Is Safe**
-> We couldn't process your payment — your card was declined. Update your
-> card and we'll try again right away.
+> We couldn't process your payment because your card was declined. Update
+> your card and we'll try again right away.
 
 **Not Angel:**
 > **Oops! Something went wrong 😅**
@@ -89,7 +97,7 @@ a dead end.*
 
 ## Confirmations
 
-**Angel:** "Payment updated — you're all set through March."
+**Angel:** "Payment updated. You're all set through March."
 **Not Angel:** "Success! Your payment method has been updated successfully!"
 *The receipt is the reassurance vs. redundant celebration.*
 
@@ -111,7 +119,7 @@ a dead end.*
 **Angel:** "David S2 premieres Sunday at 8pm"
 **Not Angel:** "You won't BELIEVE what's coming this Sunday 👀"
 
-**Angel:** "Your card was declined — 2-minute fix"
+**Angel:** "Your card was declined (2-minute fix)"
 **Not Angel:** "Action required: payment failure notification"
 
 *Specific promise vs. bait; human problem-and-fix vs. robo-corporate.*
