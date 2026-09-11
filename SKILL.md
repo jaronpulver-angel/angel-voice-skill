@@ -70,13 +70,17 @@ member like a partner, not a transaction.
   series), *Angel Guild* (the membership community; *Guild* on second
   reference), *Angel Tickets* (theatrical), *Angel Invest* (supporter
   funding). Don't invent variants or descriptions that drift from these.
-- **Legal: never mention "The Chosen."** Angel copy shall not reference
-  *The Chosen* in any form, on any surface. Not as named proof ("from the
-  producers of…"), not in title lists, not in examples. This is a legal
-  restriction, not a style preference, and it has no exceptions. Claude's
-  background knowledge associates Angel with this show, so watch for it
-  creeping into generated copy and remove it every time. Use Angel's own
-  titles for named proof instead (David, Homestead, Sound of Freedom).
+- **Legal: never mention "The Chosen."** *The Chosen* is the episodic
+  series that was previously available on Angel and is no longer on the
+  platform. Angel copy shall not reference that series in any form, on any
+  surface. Not as named proof ("from the producers of…"), not in title
+  lists, not in examples, not as a callback to its time on Angel. This is
+  a legal restriction, not a style preference, and it has no exceptions.
+  Claude's background knowledge strongly associates Angel with the series,
+  so watch for it creeping into generated copy and remove it every time.
+  Use Angel's own titles for named proof instead (David, Homestead, Sound
+  of Freedom). The ban is on the series, not the word: ordinary uses of
+  "chosen" are fine ("Every show here was chosen by the Guild").
 - **Legal: no Disney IP, and nothing substantially similar.** Angel is not
   permitted to use any Disney intellectual property in copy: no characters,
   film or show titles, songs, lyrics, taglines, or park names, and no
@@ -124,8 +128,9 @@ For detailed patterns and templates:
 
 ## Banned Patterns
 
-- **"The Chosen": never, anywhere.** A hard legal restriction with no
-  exceptions. See the Legal rule under Mechanics.
+- **"The Chosen" (the series): never, anywhere.** The episodic series
+  formerly on Angel. A hard legal restriction with no exceptions; ordinary
+  uses of the word "chosen" are fine. See the Legal rule under Mechanics.
 - **Disney IP: none, and nothing substantially similar.** A hard legal
   restriction. No Disney characters, titles, songs, taglines, or
   comparisons, and no soundalikes or near-copies that would read as
@@ -180,6 +185,6 @@ More in [references/examples.md](references/examples.md).
 7. Title casing: right case for the word count, no period?
 8. Member, never subscriber. Shows, never content.
 9. Zero em dashes. Commas, periods, parentheses, or restructure.
-10. Zero mentions of "The Chosen", anywhere, in any form.
+10. Zero mentions of "The Chosen" (the series), anywhere, in any form.
 11. Zero Disney IP: no characters, titles, songs, or taglines, and
     nothing substantially similar.

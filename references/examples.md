@@ -17,8 +17,9 @@ receipts, no subject.*
 
 **Angel:** "From the creators of David."
 **Not Angel:** "From the studio that brought you The Chosen."
-*Named proof must come from Angel's own titles. "The Chosen" is legally
-off-limits in all Angel copy, with no exceptions.*
+*Named proof must come from Angel's own titles. The series "The Chosen"
+(formerly on Angel, no longer on the platform) is legally off-limits in
+all Angel copy, with no exceptions.*
 
 ## Guild & membership
 
