@@ -77,6 +77,12 @@ member like a partner, not a transaction.
   background knowledge associates Angel with this show, so watch for it
   creeping into generated copy and remove it every time. Use Angel's own
   titles for named proof instead (David, Homestead, Sound of Freedom).
+- **Legal: no Disney IP, and nothing substantially similar.** Angel is not
+  permitted to use any Disney intellectual property in copy: no characters,
+  film or show titles, songs, lyrics, taglines, or park names, and no
+  "the Disney of…" comparisons. "Substantially similar" is the legal
+  standard, so soundalike names, paraphrased lines, and recognizable
+  echoes of Disney material are banned too, not just exact quotes.
 
 ### Title casing: a global rule
 
@@ -120,6 +126,10 @@ For detailed patterns and templates:
 
 - **"The Chosen": never, anywhere.** A hard legal restriction with no
   exceptions. See the Legal rule under Mechanics.
+- **Disney IP: none, and nothing substantially similar.** A hard legal
+  restriction. No Disney characters, titles, songs, taglines, or
+  comparisons, and no soundalikes or near-copies that would read as
+  substantially similar. See the Legal rules under Mechanics.
 - **Em dashes.** A hard rule with no style exceptions. Use commas, periods,
   parentheses, or restructure. See Mechanics.
 - **Cutesy error-speak.** "Oops!", "Uh oh!", "Something went wrong ¯\\_(ツ)_/¯",
@@ -171,3 +181,5 @@ More in [references/examples.md](references/examples.md).
 8. Member, never subscriber. Shows, never content.
 9. Zero em dashes. Commas, periods, parentheses, or restructure.
 10. Zero mentions of "The Chosen", anywhere, in any form.
+11. Zero Disney IP: no characters, titles, songs, or taglines, and
+    nothing substantially similar.
