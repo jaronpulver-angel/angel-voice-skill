@@ -70,7 +70,7 @@ member like a partner, not a transaction.
   series), *Angel Guild* (the membership community; *Guild* on second
   reference), *Angel Tickets* (theatrical), *Angel Invest* (supporter
   funding). Don't invent variants or descriptions that drift from these.
-- **Legal: never mention "The Chosen."** Angel copy may not reference
+- **Legal: never mention "The Chosen."** Angel copy shall not reference
   *The Chosen* in any form, on any surface. Not as named proof ("from the
   producers of…"), not in title lists, not in examples. This is a legal
   restriction, not a style preference, and it has no exceptions. Claude's
